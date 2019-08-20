@@ -1,0 +1,2 @@
+# 2019-FALL-STC-CITP-3310
+CITP 3310.V20 Survey of Programming Languages - This course introduces two languages. One language will be a common programming language and the other will be a common scripting language. The concepts covered in the programming language will include simple input and output, conditionals, and use of standard structures in the language. The concepts covered in the scripting language will include formatting, enhancements and error detection.
