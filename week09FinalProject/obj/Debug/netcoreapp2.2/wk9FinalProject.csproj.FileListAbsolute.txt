@@ -1,0 +1,11 @@
+/Users/jmireles2/Desktop/wk9FinalProject/bin/Debug/netcoreapp2.2/wk9FinalProject.deps.json
+/Users/jmireles2/Desktop/wk9FinalProject/bin/Debug/netcoreapp2.2/wk9FinalProject.runtimeconfig.json
+/Users/jmireles2/Desktop/wk9FinalProject/bin/Debug/netcoreapp2.2/wk9FinalProject.runtimeconfig.dev.json
+/Users/jmireles2/Desktop/wk9FinalProject/bin/Debug/netcoreapp2.2/wk9FinalProject.dll
+/Users/jmireles2/Desktop/wk9FinalProject/bin/Debug/netcoreapp2.2/wk9FinalProject.pdb
+/Users/jmireles2/Desktop/wk9FinalProject/obj/Debug/netcoreapp2.2/wk9FinalProject.csprojAssemblyReference.cache
+/Users/jmireles2/Desktop/wk9FinalProject/obj/Debug/netcoreapp2.2/wk9FinalProject.csproj.CoreCompileInputs.cache
+/Users/jmireles2/Desktop/wk9FinalProject/obj/Debug/netcoreapp2.2/wk9FinalProject.AssemblyInfoInputs.cache
+/Users/jmireles2/Desktop/wk9FinalProject/obj/Debug/netcoreapp2.2/wk9FinalProject.AssemblyInfo.cs
+/Users/jmireles2/Desktop/wk9FinalProject/obj/Debug/netcoreapp2.2/wk9FinalProject.dll
+/Users/jmireles2/Desktop/wk9FinalProject/obj/Debug/netcoreapp2.2/wk9FinalProject.pdb
