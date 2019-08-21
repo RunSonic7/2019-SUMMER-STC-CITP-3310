@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week4/csharp/wk04_assignment2/wk04_assignment2.csproj": {}
+  },
+  "projects": {
+    "/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week4/csharp/wk04_assignment2/wk04_assignment2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week4/csharp/wk04_assignment2/wk04_assignment2.csproj",
+        "projectName": "wk04_assignment2",
+        "projectPath": "/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week4/csharp/wk04_assignment2/wk04_assignment2.csproj",
+        "packagesPath": "/Users/jmireles2/.nuget/packages/",
+        "outputPath": "/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week4/csharp/wk04_assignment2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jmireles2/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

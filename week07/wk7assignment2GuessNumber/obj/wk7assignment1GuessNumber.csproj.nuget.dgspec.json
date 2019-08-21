@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jmireles2/Desktop/wk7assignment1GuessNumber/wk7assignment1GuessNumber.csproj": {}
+  },
+  "projects": {
+    "/Users/jmireles2/Desktop/wk7assignment1GuessNumber/wk7assignment1GuessNumber.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jmireles2/Desktop/wk7assignment1GuessNumber/wk7assignment1GuessNumber.csproj",
+        "projectName": "wk7assignment1GuessNumber",
+        "projectPath": "/Users/jmireles2/Desktop/wk7assignment1GuessNumber/wk7assignment1GuessNumber.csproj",
+        "packagesPath": "/Users/jmireles2/.nuget/packages/",
+        "outputPath": "/Users/jmireles2/Desktop/wk7assignment1GuessNumber/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jmireles2/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

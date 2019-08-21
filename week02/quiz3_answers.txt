@@ -1,0 +1,12 @@
+Answers to Quiz 3
+
+1. False
+2. True (writing is considered destructive)
+3. True
+4. False
+5. False
+6. In the Command Prompt
+7. main
+8. True
+9. Syntax Errors
+10. True

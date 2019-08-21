@@ -1,0 +1,11 @@
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/bin/Debug/netcoreapp2.2/wk7assignment2GuessNumber.deps.json
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/bin/Debug/netcoreapp2.2/wk7assignment2GuessNumber.runtimeconfig.json
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/bin/Debug/netcoreapp2.2/wk7assignment2GuessNumber.runtimeconfig.dev.json
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/bin/Debug/netcoreapp2.2/wk7assignment2GuessNumber.dll
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/bin/Debug/netcoreapp2.2/wk7assignment2GuessNumber.pdb
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/obj/Debug/netcoreapp2.2/wk7assignment2GuessNumber.csprojAssemblyReference.cache
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/obj/Debug/netcoreapp2.2/wk7assignment2GuessNumber.csproj.CoreCompileInputs.cache
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/obj/Debug/netcoreapp2.2/wk7assignment2GuessNumber.AssemblyInfoInputs.cache
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/obj/Debug/netcoreapp2.2/wk7assignment2GuessNumber.AssemblyInfo.cs
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/obj/Debug/netcoreapp2.2/wk7assignment2GuessNumber.dll
+/Users/jmireles2/Desktop/Summer2019/CITP3310.V20/week07/wk7assignment2GuessNumber/obj/Debug/netcoreapp2.2/wk7assignment2GuessNumber.pdb
