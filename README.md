@@ -1,5 +1,5 @@
 ### SUMMER 2019 - South Texas College
-# CITP 3310.V20 Survey of Programming Languages
+# CITP 3310.V20 Survey of Programming Languages (C# and JavaScript)
 
 Plagerism Notice: While this code is available for reference AS IS without warranty, be advised plagiarism can get you into serious trouble both academically and legally.  Think before acting. https://www.turnitin.com/blog/plagiarism-and-programming-how-to-code-without-plagiarizing-2
 
